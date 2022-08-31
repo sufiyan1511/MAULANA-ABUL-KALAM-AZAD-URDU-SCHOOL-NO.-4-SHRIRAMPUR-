@@ -1,0 +1,284 @@
+body{
+    background-color: rgb(225, 210, 210);
+
+}
+
+.mail{
+    padding-left: 8rem;
+}
+#Answer{
+    background-color: #ffffff;
+  }
+  /* .carousel-item{
+    padding: 1% 5%;
+  }
+   */
+  
+  .answer-img{
+    float: left;
+    max-width: 100%;
+   
+    /* border-radius: 4rem; */
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  }
+  .container2{
+      background-color: #ebeddd;
+      text-align: center;
+      padding: 5%;
+  }
+
+#notification{
+  background-color: #eaeaea;
+  padding-bottom: 6%;
+ 
+  text-align: center;
+}
+.noti{
+  padding-top: 8%;
+}
+.facilities{
+  padding-top: 8%;
+
+}
+.result{
+  padding-top: 8%;
+
+}
+.row h3{
+  padding-top: 3%;
+}
+
+#footer{
+  background-color: #FFF8F3;
+  text-align: center;
+  padding: 3%;
+}
+
+#links{
+  text-align: center;
+  background-color: #707157;
+  padding: 3%;
+  
+}
+
+.link{
+  padding: 2%;
+  padding-right: 2%;
+}
+
+/* messages */
+#message{
+  text-align: center;
+  background-color: #d8d8d8;
+ 
+
+}
+.principal{
+  width: 300px;
+  padding-left: 4rem;
+}
+
+/* .container{
+  padding: 2%;
+} */
+
+.text{
+  
+  text-align: left;
+  padding-right: 5%;
+}
+.manager{
+  padding-top: 4%;
+}
+
+/* about us */
+
+#about{
+  background-color: #EAEAEA;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  
+}
+#about .card{
+  margin: auto;
+  width: 50%;
+  /* border: 10px solid green; */
+  padding: 10px;
+  margin-bottom: 2%;
+  /* background-color: chartreuse; */
+
+}
+.image{
+  background-color:#ede7c7 ;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#cdc8a5 ;
+ padding-top: 1.2rem;
+  border-radius: 6%;
+  
+}
+/* rules& regulations */
+#rule{
+  background-color:#a0a08d ;
+}
+#rule .first-card{
+  width: 80rem;
+}
+
+.rules{
+  padding-top: 2%;
+  padding-left: 8%;
+}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+
+#news{
+  background-color: #a0a08e;
+}
+
+@media only screen and (max-width: 1380px) {
+  html{
+    max-width: fit-content;
+  }
+.school{
+  width: 100%;
+}
+.first-card{
+  max-width: 100%;
+
+
+}
+#album  .card{
+  max-width: 100%;
+}
+.navbar{
+  max-width: 100%;
+}
+.links{
+  max-width: 100%;
+  padding-right: 8rem;
+}
+
+#facilities .row{
+  
+  padding-left:inherit;
+}
+#rule{
+  max-width: 100%;
+}
+
+.card{
+  max-width: 100%;
+}
+#footer{
+  max-width: 100%;
+}
+.nav-link a{
+  max-width: 100%;
+}
+#message{
+  padding: 2rem;
+  max-width: 100%;
+}
+}
+/* body{
+  max-width: 100%;
+}
+} */
+
+#news {
+    padding: 2rem;
+}
+/* .quicklinks{
+  max-width: 100%;
+} */
+
+#contact{
+  background-color:#b3b2a9 ;
+  padding: 3rem 0;
+
+  }
+  
+ #contact .card{
+   width: 60rem;
+   margin: auto;
+   padding: 1rem;
+   margin-bottom: 2rem;
+
+ }   
+  
+
+  
+ /* .quicklinks{
+   /* padding-left: 10rem; */
+   /* margin: auto;
+   width: 50%; */
+   /* border: 3px solid green; */
+   /* padding: 3rem;
+   margin-right: 3rem;
+    */
+ /* }
+ .quicklinks a{
+   margin: 3rem;
+ } */
+ .quicklinks{
+   padding-left:4rem ;
+ }
+ /* .facilities{
+   padding: 0;
+   text-align: center;
+   text-decoration: none;
+   list-style: none;
+ } */
+#facilities .row{
+  padding-left: 15%;
+
+}
+.fac-card{
+  margin: 0.2rem;
+  width: 18rem;
+}
+#facilities .card{
+  margin-right: 1.2rem;
+  margin-bottom: 1.2rem;
+  
+}
+
+#facilities .card:hover{
+  background-color:#FFF8F3 ;
+}
+#facilities {
+  background-color: #EAEAEA;
+}
+#facilities .fac{
+  padding: 2rem;
+}
+
+.links {
+  padding-left: 8rem;
+}
+
+#album .card{
+  padding: 1rem;
+  width: 15rem;
+}
